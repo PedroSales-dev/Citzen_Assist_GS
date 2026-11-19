@@ -1,6 +1,5 @@
 # Citizen Assist AI
 
-**Equipe:** _[NOME DA EQUIPE]_
 **Integrantes:** Pedro Sales — RM275709
 **Global Solution 2026.2 – CitizenTech (FIAP)**
 **Repositório:** https://github.com/PedroSales-dev/Citzen_Assist_GS
