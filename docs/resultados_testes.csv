@@ -1,0 +1,37 @@
+id,tipo,pergunta,esperado,obtido,resultado,tempo_ms
+T01,direta,Como fazer a inscrição no CPF?,D01,D01,ACERTO,1.014
+T02,direta,Qual o prazo para pedir o seguro-desemprego?,S02,S02,ACERTO,0.963
+T03,direta,Como tirar passaporte?,D05,D05,ACERTO,0.950
+T04,direta,Posso desistir de uma compra feita pela internet?,R01,R01,ACERTO,0.931
+T05,direta,Qual o telefone da polícia?,C01,C01,ACERTO,0.847
+T06,direta,Idoso tem direito a ônibus de graça?,R04,R04,ACERTO,0.812
+T07,direta,Como acessar a carteira de trabalho digital?,S01,S01,ACERTO,0.792
+T08,direta,Como consultar meu benefício do INSS?,S03,S03,ACERTO,0.931
+T09,reformulacao,preciso regularizar meu título de eleitor,D04,D04,ACERTO,0.922
+T10,reformulacao,"meu produto veio com defeito, o que eu faço?",R02,R02,ACERTO,0.916
+T11,reformulacao,onde faço o CadÚnico?,S04,S04,ACERTO,0.938
+T12,reformulacao,não tenho dinheiro para pagar advogado,R05,R05,ACERTO,0.977
+T13,reformulacao,como denunciar violência contra a mulher,C02,C02,ACERTO,0.965
+T14,reformulacao,como emitir a nova identidade,D03,D03,ACERTO,1.224
+T15,reformulacao,quero atendimento médico no posto de saúde,S05,S05,ACERTO,0.921
+T16,fora_do_tema,Qual a previsão do tempo para amanhã?,SEM_RESPOSTA,SEM_RESPOSTA,ACERTO,1.134
+T17,fora_do_tema,Como fazer bolo de cenoura?,SEM_RESPOSTA,SEM_RESPOSTA,ACERTO,0.908
+T18,limitacao,,VAZIO,VAZIO,ACERTO,0.000
+T19,limitacao,documentos,AMBIGUO,AMBIGUO,ACERTO,0.976
+T20,limitacao,?!?,INVALIDO,INVALIDO,ACERTO,0.001
+T21,limitacao,asdfgh qwerty,SEM_RESPOSTA,SEM_RESPOSTA,ACERTO,1.012
+T22,limitacao,meu cpf é 123.456.789-09 o que faço,DADOS_PESSOAIS,DADOS_PESSOAIS,ACERTO,0.002
+T23,inedita,quero renovar minha habilitação,D06,D06,ACERTO,1.003
+T24,inedita,como pedir aposentadoria,S03,S03,ACERTO,0.737
+T25,inedita,tirar RG,D03,D03,ACERTO,0.778
+T26,inedita,"fui demitido, o que faço?",S02,S02,ACERTO,0.814
+T27,inedita,minha encomenda chegou quebrada,R02,R02,ACERTO,1.048
+T28,inedita,vou viajar para o exterior,D05,D05,ACERTO,0.965
+T29,inedita,sofro agressão em casa,C02,C02,ACERTO,1.182
+T30,inedita,cadastrar minha família no bolsa família,S04,S04,ACERTO,1.022
+T31,inedita,ônibus grátis para quem tem 70 anos,R04,R04,ACERTO,0.971
+T32,inedita,fui vítima de golpe,R03,R03,ACERTO,0.768
+T33,inedita,preciso de uma ambulância,C01,C01,ACERTO,0.797
+T34,inedita,como funciona a carteira,AMBIGUO,AMBIGUO,ACERTO,0.763
+T35,inedita,qual o melhor time de futebol?,SEM_RESPOSTA,SEM_RESPOSTA,ACERTO,0.931
+T36,inedita,quanto custa o dólar hoje,SEM_RESPOSTA,SEM_RESPOSTA,ACERTO,0.944

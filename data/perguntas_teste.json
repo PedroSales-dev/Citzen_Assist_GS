@@ -1,0 +1,218 @@
+[
+ {
+  "id": "T01",
+  "tipo": "direta",
+  "pergunta": "Como fazer a inscrição no CPF?",
+  "esperado": "D01"
+ },
+ {
+  "id": "T02",
+  "tipo": "direta",
+  "pergunta": "Qual o prazo para pedir o seguro-desemprego?",
+  "esperado": "S02"
+ },
+ {
+  "id": "T03",
+  "tipo": "direta",
+  "pergunta": "Como tirar passaporte?",
+  "esperado": "D05"
+ },
+ {
+  "id": "T04",
+  "tipo": "direta",
+  "pergunta": "Posso desistir de uma compra feita pela internet?",
+  "esperado": "R01"
+ },
+ {
+  "id": "T05",
+  "tipo": "direta",
+  "pergunta": "Qual o telefone da polícia?",
+  "esperado": "C01"
+ },
+ {
+  "id": "T06",
+  "tipo": "direta",
+  "pergunta": "Idoso tem direito a ônibus de graça?",
+  "esperado": "R04"
+ },
+ {
+  "id": "T07",
+  "tipo": "direta",
+  "pergunta": "Como acessar a carteira de trabalho digital?",
+  "esperado": "S01"
+ },
+ {
+  "id": "T08",
+  "tipo": "direta",
+  "pergunta": "Como consultar meu benefício do INSS?",
+  "esperado": "S03"
+ },
+ {
+  "id": "T09",
+  "tipo": "reformulacao",
+  "pergunta": "preciso regularizar meu título de eleitor",
+  "esperado": "D04"
+ },
+ {
+  "id": "T10",
+  "tipo": "reformulacao",
+  "pergunta": "meu produto veio com defeito, o que eu faço?",
+  "esperado": "R02"
+ },
+ {
+  "id": "T11",
+  "tipo": "reformulacao",
+  "pergunta": "onde faço o CadÚnico?",
+  "esperado": "S04"
+ },
+ {
+  "id": "T12",
+  "tipo": "reformulacao",
+  "pergunta": "não tenho dinheiro para pagar advogado",
+  "esperado": "R05"
+ },
+ {
+  "id": "T13",
+  "tipo": "reformulacao",
+  "pergunta": "como denunciar violência contra a mulher",
+  "esperado": "C02"
+ },
+ {
+  "id": "T14",
+  "tipo": "reformulacao",
+  "pergunta": "como emitir a nova identidade",
+  "esperado": "D03"
+ },
+ {
+  "id": "T15",
+  "tipo": "reformulacao",
+  "pergunta": "quero atendimento médico no posto de saúde",
+  "esperado": "S05"
+ },
+ {
+  "id": "T16",
+  "tipo": "fora_do_tema",
+  "pergunta": "Qual a previsão do tempo para amanhã?",
+  "esperado": "SEM_RESPOSTA"
+ },
+ {
+  "id": "T17",
+  "tipo": "fora_do_tema",
+  "pergunta": "Como fazer bolo de cenoura?",
+  "esperado": "SEM_RESPOSTA"
+ },
+ {
+  "id": "T18",
+  "tipo": "limitacao",
+  "pergunta": "",
+  "esperado": "VAZIO"
+ },
+ {
+  "id": "T19",
+  "tipo": "limitacao",
+  "pergunta": "documentos",
+  "esperado": "AMBIGUO"
+ },
+ {
+  "id": "T20",
+  "tipo": "limitacao",
+  "pergunta": "?!?",
+  "esperado": "INVALIDO"
+ },
+ {
+  "id": "T21",
+  "tipo": "limitacao",
+  "pergunta": "asdfgh qwerty",
+  "esperado": "SEM_RESPOSTA"
+ },
+ {
+  "id": "T22",
+  "tipo": "limitacao",
+  "pergunta": "meu cpf é 123.456.789-09 o que faço",
+  "esperado": "DADOS_PESSOAIS"
+ },
+ {
+  "id": "T23",
+  "tipo": "inedita",
+  "pergunta": "quero renovar minha habilitação",
+  "esperado": "D06"
+ },
+ {
+  "id": "T24",
+  "tipo": "inedita",
+  "pergunta": "como pedir aposentadoria",
+  "esperado": "S03"
+ },
+ {
+  "id": "T25",
+  "tipo": "inedita",
+  "pergunta": "tirar RG",
+  "esperado": "D03"
+ },
+ {
+  "id": "T26",
+  "tipo": "inedita",
+  "pergunta": "fui demitido, o que faço?",
+  "esperado": "S02"
+ },
+ {
+  "id": "T27",
+  "tipo": "inedita",
+  "pergunta": "minha encomenda chegou quebrada",
+  "esperado": "R02"
+ },
+ {
+  "id": "T28",
+  "tipo": "inedita",
+  "pergunta": "vou viajar para o exterior",
+  "esperado": "D05"
+ },
+ {
+  "id": "T29",
+  "tipo": "inedita",
+  "pergunta": "sofro agressão em casa",
+  "esperado": "C02"
+ },
+ {
+  "id": "T30",
+  "tipo": "inedita",
+  "pergunta": "cadastrar minha família no bolsa família",
+  "esperado": "S04"
+ },
+ {
+  "id": "T31",
+  "tipo": "inedita",
+  "pergunta": "ônibus grátis para quem tem 70 anos",
+  "esperado": "R04"
+ },
+ {
+  "id": "T32",
+  "tipo": "inedita",
+  "pergunta": "fui vítima de golpe",
+  "esperado": "R03"
+ },
+ {
+  "id": "T33",
+  "tipo": "inedita",
+  "pergunta": "preciso de uma ambulância",
+  "esperado": "C01"
+ },
+ {
+  "id": "T34",
+  "tipo": "inedita",
+  "pergunta": "como funciona a carteira",
+  "esperado": "AMBIGUO"
+ },
+ {
+  "id": "T35",
+  "tipo": "inedita",
+  "pergunta": "qual o melhor time de futebol?",
+  "esperado": "SEM_RESPOSTA"
+ },
+ {
+  "id": "T36",
+  "tipo": "inedita",
+  "pergunta": "quanto custa o dólar hoje",
+  "esperado": "SEM_RESPOSTA"
+ }
+]

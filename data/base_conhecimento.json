@@ -1,0 +1,475 @@
+[
+ {
+  "id": "D01",
+  "tema": "documentos",
+  "subtema": "CPF",
+  "palavras_chave": [
+   "cpf",
+   "inscricao cpf",
+   "tirar cpf",
+   "fazer cpf",
+   "cadastro pessoa fisica",
+   "receita federal",
+   "documento"
+  ],
+  "pergunta": "Como fazer a inscrição no CPF?",
+  "orientacao": "A inscrição no CPF pode ser feita pelo site ou aplicativo da Receita Federal ou presencialmente em pontos de atendimento conveniados. Tenha em mãos um documento de identificação; para menores, os dados do responsável. Em alguns pontos pode haver cobrança de taxa.",
+  "referencia": "Receita Federal do Brasil",
+  "url": "https://www.gov.br/receitafederal",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Confirme na Receita Federal quais documentos são exigidos no seu caso.",
+  "relacionados": [
+   "D03",
+   "S01"
+  ]
+ },
+ {
+  "id": "D03",
+  "tema": "documentos",
+  "subtema": "identidade",
+  "palavras_chave": [
+   "identidade",
+   "rg",
+   "cin",
+   "carteira de identidade",
+   "carteira de identidade nacional",
+   "nova identidade",
+   "documento"
+  ],
+  "pergunta": "Como emitir a Carteira de Identidade Nacional (CIN)?",
+  "orientacao": "A CIN é emitida pelos órgãos estaduais de identificação e usa o CPF como número único de registro. Em geral é preciso agendar atendimento e levar certidão de nascimento ou casamento e o CPF. Prazos, taxas e locais variam por estado.",
+  "referencia": "Portal de serviços do Governo Federal (gov.br)",
+  "url": "https://www.gov.br/pt-br/servicos",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Os procedimentos mudam conforme o estado; consulte o órgão de identificação do seu estado.",
+  "relacionados": [
+   "D01",
+   "D04",
+   "D06"
+  ]
+ },
+ {
+  "id": "D04",
+  "tema": "documentos",
+  "subtema": "título de eleitor",
+  "palavras_chave": [
+   "titulo de eleitor",
+   "titulo",
+   "eleitor",
+   "regularizar titulo",
+   "e-titulo",
+   "votar",
+   "zona eleitoral",
+   "documento"
+  ],
+  "pergunta": "Como regularizar o título de eleitor?",
+  "orientacao": "A situação eleitoral pode ser consultada e regularizada pelos serviços online da Justiça Eleitoral (Título Net e aplicativo e-Título) ou presencialmente em um cartório eleitoral. Alguns serviços exigem documento de identificação e comprovante de residência.",
+  "referencia": "Tribunal Superior Eleitoral (TSE)",
+  "url": "https://www.tse.jus.br",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Verifique no TSE ou no cartório eleitoral se há prazos ou pendências específicas.",
+  "relacionados": [
+   "D03"
+  ]
+ },
+ {
+  "id": "D05",
+  "tema": "documentos",
+  "subtema": "passaporte",
+  "palavras_chave": [
+   "passaporte",
+   "viagem internacional",
+   "policia federal",
+   "tirar passaporte",
+   "emitir passaporte",
+   "documento"
+  ],
+  "pergunta": "Como solicitar o passaporte?",
+  "orientacao": "O pedido de passaporte começa no site da Polícia Federal: preenchimento do formulário, pagamento da taxa por GRU e agendamento de atendimento presencial, com documentos originais de identificação e CPF.",
+  "referencia": "Polícia Federal",
+  "url": "https://www.gov.br/pf",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Valores e prazos de agendamento podem mudar; confirme no site da Polícia Federal.",
+  "relacionados": [
+   "D03",
+   "D06"
+  ]
+ },
+ {
+  "id": "D06",
+  "tema": "documentos",
+  "subtema": "CNH",
+  "palavras_chave": [
+   "cnh",
+   "carteira de motorista",
+   "habilitacao",
+   "detran",
+   "renovar cnh",
+   "cnh digital",
+   "dirigir",
+   "documento"
+  ],
+  "pergunta": "Onde tratar da CNH (habilitação)?",
+  "orientacao": "Os procedimentos de habilitação e renovação da CNH são conduzidos pelo Detran do seu estado. A CNH Digital pode ser acessada por aplicativo oficial do governo federal.",
+  "referencia": "Detran estadual e portal gov.br",
+  "url": "https://www.gov.br/pt-br/servicos",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Regras e taxas variam por estado; consulte o Detran do seu estado.",
+  "relacionados": [
+   "D03",
+   "D05"
+  ]
+ },
+ {
+  "id": "S01",
+  "tema": "servicos",
+  "subtema": "trabalho",
+  "palavras_chave": [
+   "carteira de trabalho",
+   "carteira de trabalho digital",
+   "ctps",
+   "emprego",
+   "baixar carteira de trabalho",
+   "contrato de trabalho"
+  ],
+  "pergunta": "Como acessar a Carteira de Trabalho Digital?",
+  "orientacao": "A Carteira de Trabalho Digital é acessada pelo aplicativo oficial ou pelo portal do Ministério do Trabalho e Emprego, com login na conta gov.br e CPF.",
+  "referencia": "Ministério do Trabalho e Emprego",
+  "url": "https://www.gov.br/trabalho-e-emprego",
+  "data_verificacao": "2026-11-19",
+  "relacionados": [
+   "S02",
+   "S03",
+   "D01"
+  ]
+ },
+ {
+  "id": "S02",
+  "tema": "servicos",
+  "subtema": "trabalho",
+  "palavras_chave": [
+   "seguro desemprego",
+   "seguro-desemprego",
+   "desempregado",
+   "demissao",
+   "demitido",
+   "dispensa",
+   "prazo seguro desemprego"
+  ],
+  "pergunta": "Qual o prazo para pedir o seguro-desemprego?",
+  "orientacao": "Em regra, o trabalhador dispensado sem justa causa pode requerer o seguro-desemprego entre o 7º e o 120º dia após a data da dispensa. O pedido pode ser feito pelo aplicativo Carteira de Trabalho Digital ou pelo portal gov.br.",
+  "referencia": "Ministério do Trabalho e Emprego",
+  "url": "https://www.gov.br/trabalho-e-emprego",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Há regras de carência e valor que dependem do seu histórico de trabalho; confirme no órgão oficial.",
+  "relacionados": [
+   "S01",
+   "S03"
+  ]
+ },
+ {
+  "id": "S03",
+  "tema": "servicos",
+  "subtema": "previdência",
+  "palavras_chave": [
+   "inss",
+   "meu inss",
+   "aposentadoria",
+   "beneficio",
+   "previdencia",
+   "pericia",
+   "extrato",
+   "telefone 135",
+   "135"
+  ],
+  "pergunta": "Como consultar ou pedir benefícios do INSS?",
+  "orientacao": "Os serviços do INSS (consulta de benefícios, pedido de aposentadoria, agendamento de perícia e extratos) estão disponíveis no aplicativo e no site Meu INSS, com login gov.br. Também há atendimento pela central telefônica 135.",
+  "referencia": "Instituto Nacional do Seguro Social (INSS)",
+  "url": "https://www.gov.br/inss",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Requisitos de cada benefício variam; confirme no Meu INSS.",
+  "relacionados": [
+   "S01",
+   "S02",
+   "R04"
+  ]
+ },
+ {
+  "id": "S04",
+  "tema": "servicos",
+  "subtema": "assistência social",
+  "palavras_chave": [
+   "cadunico",
+   "cadastro unico",
+   "bolsa familia",
+   "beneficio social",
+   "programas sociais",
+   "baixa renda",
+   "cras"
+  ],
+  "pergunta": "Como fazer o Cadastro Único (CadÚnico)?",
+  "orientacao": "O CadÚnico é feito presencialmente no CRAS ou em local indicado pela prefeitura da sua cidade. Em geral, leve documento de identificação e CPF do responsável familiar e, se possível, dos demais moradores.",
+  "referencia": "Ministério do Desenvolvimento e Assistência Social (MDS)",
+  "url": "https://www.gov.br/mds",
+  "data_verificacao": "2026-11-19",
+  "aviso": "A prefeitura define horários e documentos adicionais; confirme com o CRAS do seu bairro.",
+  "relacionados": [
+   "C03",
+   "S05"
+  ]
+ },
+ {
+  "id": "S05",
+  "tema": "servicos",
+  "subtema": "saúde",
+  "palavras_chave": [
+   "sus",
+   "saude",
+   "posto de saude",
+   "ubs",
+   "consulta medica",
+   "cartao sus",
+   "meu sus digital",
+   "atendimento medico"
+  ],
+  "pergunta": "Como ser atendido pelo SUS?",
+  "orientacao": "O atendimento básico do SUS começa na Unidade Básica de Saúde (UBS) do seu bairro, onde é possível obter o Cartão Nacional de Saúde e ser encaminhado a outros serviços. O aplicativo Meu SUS Digital reúne informações de saúde.",
+  "referencia": "Ministério da Saúde",
+  "url": "https://www.gov.br/saude",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Em emergência, ligue 192 (SAMU) ou procure uma unidade de pronto atendimento.",
+  "relacionados": [
+   "S04",
+   "C01"
+  ]
+ },
+ {
+  "id": "R01",
+  "tema": "direitos",
+  "subtema": "consumidor",
+  "palavras_chave": [
+   "arrependimento",
+   "devolver compra",
+   "devolucao",
+   "devolver",
+   "compra internet",
+   "compra online",
+   "desistir da compra",
+   "cancelar compra",
+   "7 dias"
+  ],
+  "pergunta": "Posso desistir de uma compra feita pela internet?",
+  "orientacao": "Nas compras fora do estabelecimento comercial (internet, telefone), o consumidor pode desistir em até 7 dias a contar da assinatura do contrato ou do recebimento do produto, com devolução dos valores pagos.",
+  "referencia": "Código de Defesa do Consumidor, art. 49 (Lei 8.078/1990)",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Guarde comprovantes e comunique a desistência por escrito.",
+  "relacionados": [
+   "R02",
+   "R03"
+  ]
+ },
+ {
+  "id": "R02",
+  "tema": "direitos",
+  "subtema": "consumidor",
+  "palavras_chave": [
+   "defeito",
+   "produto com defeito",
+   "vicio",
+   "garantia",
+   "assistencia tecnica",
+   "conserto",
+   "trocar produto",
+   "troca"
+  ],
+  "pergunta": "O que fazer se o produto veio com defeito?",
+  "orientacao": "O fornecedor tem 30 dias para sanar o defeito. Se não resolver, o consumidor pode escolher entre a substituição do produto, a restituição do valor pago ou o abatimento proporcional do preço. O prazo para reclamar é de 30 dias para produtos não duráveis e 90 dias para duráveis.",
+  "referencia": "Código de Defesa do Consumidor, arts. 18 e 26 (Lei 8.078/1990)",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Guarde nota fiscal e protocolos de atendimento.",
+  "relacionados": [
+   "R01",
+   "R03"
+  ]
+ },
+ {
+  "id": "R03",
+  "tema": "direitos",
+  "subtema": "consumidor",
+  "palavras_chave": [
+   "reclamar",
+   "reclamacao",
+   "consumidor.gov.br",
+   "procon",
+   "empresa",
+   "fraude",
+   "cobranca indevida"
+  ],
+  "pergunta": "Onde registrar uma reclamação contra uma empresa?",
+  "orientacao": "Reclamações de consumo podem ser registradas na plataforma Consumidor.gov.br ou no Procon do seu município ou estado, após tentar resolver diretamente com a empresa.",
+  "referencia": "Consumidor.gov.br (Senacon)",
+  "url": "https://www.consumidor.gov.br",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Nem todas as empresas participam da plataforma; verifique no site.",
+  "relacionados": [
+   "R01",
+   "R02",
+   "R05"
+  ]
+ },
+ {
+  "id": "R04",
+  "tema": "direitos",
+  "subtema": "idoso",
+  "palavras_chave": [
+   "idoso",
+   "idosa",
+   "onibus gratis",
+   "transporte gratuito",
+   "gratuidade",
+   "65 anos",
+   "terceira idade",
+   "estatuto da pessoa idosa"
+  ],
+  "pergunta": "Idoso tem direito a transporte coletivo gratuito?",
+  "orientacao": "Pessoas com 65 anos ou mais têm direito à gratuidade nos transportes coletivos urbanos e semiurbanos, mediante apresentação de documento de identificação com foto. Regras de cartões ou cadastros podem variar por cidade.",
+  "referencia": "Estatuto da Pessoa Idosa (Lei 10.741/2003)",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Consulte a empresa ou a prefeitura sobre cadastro local.",
+  "relacionados": [
+   "S03",
+   "R05"
+  ]
+ },
+ {
+  "id": "R05",
+  "tema": "direitos",
+  "subtema": "acesso à justiça",
+  "palavras_chave": [
+   "defensoria publica",
+   "advogado",
+   "advogado gratuito",
+   "sem dinheiro",
+   "assistencia juridica",
+   "justica gratuita",
+   "processo"
+  ],
+  "pergunta": "Como obter assistência jurídica gratuita?",
+  "orientacao": "A Defensoria Pública presta orientação jurídica e defesa gratuitas a quem comprova insuficiência de recursos. O atendimento é feito na sede da Defensoria do seu estado, presencialmente ou por canais indicados em seu site.",
+  "referencia": "Constituição Federal, art. 134",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Os critérios de renda são definidos por cada Defensoria.",
+  "relacionados": [
+   "R03",
+   "C02"
+  ]
+ },
+ {
+  "id": "C01",
+  "tema": "comunitario",
+  "subtema": "emergência",
+  "palavras_chave": [
+   "emergencia",
+   "policia",
+   "190",
+   "samu",
+   "192",
+   "bombeiros",
+   "193",
+   "ambulancia",
+   "telefone emergencia",
+   "socorro"
+  ],
+  "pergunta": "Quais são os telefones de emergência?",
+  "orientacao": "Os números nacionais de emergência são: 190 (Polícia Militar), 192 (SAMU, urgências de saúde) e 193 (Corpo de Bombeiros). As ligações são gratuitas.",
+  "referencia": "Governo Federal (gov.br)",
+  "url": "https://www.gov.br",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Em risco imediato, ligue sem esperar e informe o endereço.",
+  "relacionados": [
+   "C02",
+   "S05"
+  ]
+ },
+ {
+  "id": "C02",
+  "tema": "comunitario",
+  "subtema": "violência",
+  "palavras_chave": [
+   "violencia",
+   "violencia contra a mulher",
+   "denunciar",
+   "denuncia",
+   "ligue 180",
+   "180",
+   "disque 100",
+   "100",
+   "maus tratos",
+   "agressao"
+  ],
+  "pergunta": "Como denunciar violência contra a mulher ou violação de direitos humanos?",
+  "orientacao": "A Central de Atendimento à Mulher (Ligue 180) recebe denúncias de violência contra a mulher. O Disque 100 recebe denúncias de violações de direitos humanos, como violência contra crianças, idosos e pessoas com deficiência. Em perigo imediato, ligue 190.",
+  "referencia": "Ministério dos Direitos Humanos e da Cidadania",
+  "url": "https://www.gov.br/mdh",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Em risco imediato, ligue 190.",
+  "relacionados": [
+   "C01",
+   "C03",
+   "C04",
+   "R05"
+  ]
+ },
+ {
+  "id": "C03",
+  "tema": "comunitario",
+  "subtema": "assistência social",
+  "palavras_chave": [
+   "cras",
+   "assistencia social",
+   "vulnerabilidade",
+   "creas",
+   "apoio familiar",
+   "centro de referencia"
+  ],
+  "pergunta": "O que é o CRAS e como ele ajuda?",
+  "orientacao": "O CRAS (Centro de Referência de Assistência Social) é a porta de entrada da assistência social nos municípios. Oferece acompanhamento a famílias e orienta sobre benefícios e programas sociais, como o CadÚnico.",
+  "referencia": "Ministério do Desenvolvimento e Assistência Social (MDS)",
+  "url": "https://www.gov.br/mds",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Procure o CRAS do seu bairro; endereços e horários variam por município.",
+  "relacionados": [
+   "S04",
+   "C02",
+   "C04"
+  ]
+ },
+ {
+  "id": "C04",
+  "tema": "comunitario",
+  "subtema": "crianças e adolescentes",
+  "palavras_chave": [
+   "conselho tutelar",
+   "crianca",
+   "adolescente",
+   "eca",
+   "menor",
+   "direitos da crianca",
+   "estatuto da crianca"
+  ],
+  "pergunta": "Quando procurar o Conselho Tutelar?",
+  "orientacao": "O Conselho Tutelar atua quando direitos de crianças e adolescentes são ameaçados ou violados, como em casos de negligência, maus-tratos ou falta de acesso à escola. Cada município possui conselhos e a denúncia também pode ser feita pelo Disque 100.",
+  "referencia": "Estatuto da Criança e do Adolescente (Lei 8.069/1990)",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+  "data_verificacao": "2026-11-19",
+  "aviso": "Em risco imediato, ligue 190.",
+  "relacionados": [
+   "C02",
+   "C03"
+  ]
+ }
+]
